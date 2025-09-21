@@ -1,4 +1,7 @@
 streamlit[snowflake]
 pandas
 snowflake-snowpark-python
+
 matplotlib
+
+snowflake-ml-python
